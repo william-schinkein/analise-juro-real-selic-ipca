@@ -1,5 +1,4 @@
-# Pergunta: Quem deixou o dinheiro parado rendendo 100% da Selic nos últimos 5 anos realmente ganhou poder de compra
-# acima da inflação, ou em alguns momentos perdeu dinheiro em termos reais?
+# Pergunta: Quem deixou o dinheiro parado rendendo 100% da Selic nos últimos 5 anos realmente ganhou poder de compra acima da inflação, ou em alguns momentos perdeu dinheiro em termos reais?
 
 import pandas as pd
 import matplotlib.pyplot as plt
